@@ -1,5 +1,5 @@
 # Docker — MacBook Desktop App
-![logo](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png)
+![logo-docker](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/2560px-Docker_%28container_engine%29_logo.svg.png)
 
 Run, build, and manage containers easily with Docker on MacBook! 😃  
 Follow the instructions below to get started with the Docker desktop app and streamline your container-based development workflow.
